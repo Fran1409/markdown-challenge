@@ -17,7 +17,9 @@
 - Walking with my dog
 - Going out with friends
 - Make-up
-- Bootcamp (fitness)
+- Sport
+    - Bootcamp 
+    - Fitness
 
 #### You can always count on me when...
 you need help. I will help you or look together for a solution. 
