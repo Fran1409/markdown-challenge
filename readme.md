@@ -35,3 +35,6 @@ So my neighbour from across the street comes outside and sees Charlie on the bal
 ![Charlie](images/charlie1.jpg)
 
 ###### TL;DR Dog chillin' on the balcony.
+
+[Previous](https://github.com/Florianbracke/Markdown_challenge)
+[Next]()
